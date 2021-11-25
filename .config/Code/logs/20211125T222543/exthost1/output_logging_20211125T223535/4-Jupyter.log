@@ -1,0 +1,40 @@
+Info 2021-11-25 22:35:35: Experimentation service retrieved: [object Object]
+Info 2021-11-25 22:35:35: ZMQ install verified.
+Error 2021-11-25 22:35:35: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/salazarylizanicole/.config/Code/User/settings.json' (Error: Unable to resolve nonexistent file '/home/salazarylizanicole/.config/Code/User/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:164282)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:102:789683)
+	at async g.fixSettingsFile (/home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:66:322174)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:66:323924)] {
+  code: 'FileNotFound'
+}
+Error 2021-11-25 22:35:35: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/salazarylizanicole/assignmentnumber6/.vscode/settings.json' (Error: Unable to resolve nonexistent file '/home/salazarylizanicole/assignmentnumber6/.vscode/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:164282)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:102:789683)
+	at async g.fixSettingsFile (/home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:66:322174)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:66:323924)] {
+  code: 'FileNotFound'
+}
+Info 2021-11-25 22:35:36: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 2021-11-25 22:35:37: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-11-25 22:35:37: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-11-25 22:35:37: Process Execution: > /usr/bin/python3 -c "import jupyter"
+> /usr/bin/python3 -c "import jupyter"
+Info 2021-11-25 22:35:37: Process Execution: > /usr/bin/python3 -c "import jupyter"
+> /usr/bin/python3 -c "import jupyter"
+Info 2021-11-25 22:35:37: Process Execution: > /usr/bin/python3 -c "import notebook"
+> /usr/bin/python3 -c "import notebook"
+Info 2021-11-25 22:35:37: Process Execution: > /usr/bin/python3 -c "import notebook"
+> /usr/bin/python3 -c "import notebook"
+Info 2021-11-25 23:21:34: Shutting down notebooks for 798f72be-f1c2-40af-af4e-0b8640f6456e
+Info 2021-11-25 23:21:34: Disposing HostJupyterExecution affce2e4-15ad-4869-8b91-187c32cd0ada
+Info 2021-11-25 23:21:34: Disposing super HostJupyterExecution affce2e4-15ad-4869-8b91-187c32cd0ada
+Info 2021-11-25 23:21:34: Disposing HostJupyterExecution affce2e4-15ad-4869-8b91-187c32cd0ada
+Info 2021-11-25 23:21:34: Finished disposing HostJupyterExecution  affce2e4-15ad-4869-8b91-187c32cd0ada
+Info 2021-11-25 23:21:34: Cleaning up server cache affce2e4-15ad-4869-8b91-187c32cd0ada
+Info 2021-11-25 23:21:34: Finished disposing HostJupyterExecution  affce2e4-15ad-4869-8b91-187c32cd0ada

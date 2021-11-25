@@ -1,0 +1,31 @@
+[2021-11-25 22:34:33.899] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-25 22:34:39.646] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-11-25 22:34:44.854] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-11-25 22:34:44.856] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-11-25 22:34:44.857] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-11-25 22:34:44.858] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-11-25 22:34:47.648] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/salazarylizanicole/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-11-25 22:34:48.541] [sharedprocess] [info] Extracted extension to /home/salazarylizanicole/.vscode/extensions/.f793a8ce-2b08-4c78-a1fb-1d53fe67369d: ms-toolsai.jupyter-keymap
+[2021-11-25 22:34:48.889] [sharedprocess] [info] Renamed to /home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-11-25 22:34:48.956] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-11-25 22:34:49.131] [sharedprocess] [info] Downloaded extension: ms-python.python /home/salazarylizanicole/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.11.1422169775
+[2021-11-25 22:34:49.390] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/salazarylizanicole/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.3
+[2021-11-25 22:34:49.921] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/salazarylizanicole/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.10.1101450599
+[2021-11-25 22:34:51.806] [sharedprocess] [info] Extracted extension to /home/salazarylizanicole/.vscode/extensions/.9a8d4eb4-c426-4e55-af46-ac4accfbe692: ms-toolsai.jupyter-renderers
+[2021-11-25 22:34:51.853] [sharedprocess] [info] Renamed to /home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.3
+[2021-11-25 22:34:51.864] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-11-25 22:34:55.657] [sharedprocess] [info] Extracted extension to /home/salazarylizanicole/.vscode/extensions/.c6c49c42-5f6f-4570-99da-bad16a46b74c: ms-toolsai.jupyter
+[2021-11-25 22:34:55.752] [sharedprocess] [info] Renamed to /home/salazarylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599
+[2021-11-25 22:34:55.765] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-11-25 22:35:06.431] [sharedprocess] [info] Extracted extension to /home/salazarylizanicole/.vscode/extensions/.de03f04c-3b79-488b-b8e6-f5e88a8ea009: ms-python.python
+[2021-11-25 22:35:06.480] [sharedprocess] [info] Renamed to /home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775
+[2021-11-25 22:35:06.495] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-11-25 22:35:13.465] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/salazarylizanicole/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.11.2
+[2021-11-25 22:35:32.030] [sharedprocess] [info] Extracted extension to /home/salazarylizanicole/.vscode/extensions/.e65d57ba-71cc-4c91-a76e-af20ac00eebb: ms-python.vscode-pylance
+[2021-11-25 22:35:32.086] [sharedprocess] [info] Renamed to /home/salazarylizanicole/.vscode/extensions/ms-python.vscode-pylance-2021.11.2
+[2021-11-25 22:35:32.096] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-11-25 22:35:32.123] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-11-25 22:35:32.125] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-11-25 22:35:32.128] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-11-25 22:35:32.129] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-11-25 22:35:32.130] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
