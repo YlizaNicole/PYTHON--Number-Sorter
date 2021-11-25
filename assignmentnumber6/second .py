@@ -27,7 +27,7 @@ def infos ():
     print(number1,"+",number2, end= "")
     answer1 = int(input("="))
     if answer1 == total : 
-        print("Correct!")
+        print("Correct! :)")
         score = score +1
     else: 
         print("Incorrect :(")
@@ -39,7 +39,7 @@ def infos ():
     print(number1,"+",number2, end= "")
     answer1 = int(input("="))
     if answer1 == total : 
-        print("Correct!")
+        print("Correct! :)")
         score = score +1
     else: 
         print("Incorrect :(")
@@ -50,7 +50,7 @@ def infos ():
     print(number1,"+",number2, end= "")
     answer1 = int(input("="))
     if answer1 == total : 
-        print("Correct!")
+        print("Correct! :)")
         score = score +1
     else: 
         print("Incorrect :(")
@@ -61,7 +61,7 @@ def infos ():
     print(number1,"+",number2, end= "")
     answer1 = int(input("="))
     if answer1 == total : 
-        print("Correct!")
+        print("Correct! :)")
         score = score +1
     else: 
         print("Incorrect :(")
@@ -73,7 +73,7 @@ def infos ():
     answer1 = int(input("="))
     if answer1 == total : 
         score = score +1
-        print("Correct!")
+        print("Correct! :)")
     else: 
         print("Incorrect :(")
     
@@ -83,7 +83,7 @@ def infos ():
     print(number1,"+",number2, end= "")
     answer1 = int(input("="))
     if answer1 == total : 
-        print("Correct!")
+        print("Correct! :)")
         score = score +1
     else: 
         print("Incorrect :(")
@@ -95,7 +95,7 @@ def infos ():
     print(number1,"+",number2, end= "")
     answer1 = int(input("="))
     if answer1 == total : 
-        print("Correct!")
+        print("Correct! :) ")
         score = score +1
     else: 
         print("Incorrect :(")
@@ -106,7 +106,7 @@ def infos ():
     print(number1,"+",number2, end= "")
     answer1 = int(input("="))
     if answer1 == total : 
-        print("Correct!")
+        print("Correct! :)")
         score = score +1
     else: 
         print("Incorrect :(")
@@ -117,7 +117,7 @@ def infos ():
     print(number1,"+",number2, end= "")
     answer1 = int(input("="))
     if answer1 == total : 
-        print("Correct!")
+        print("Correct! :)")
         score = score +1
     else: 
         print("Incorrect :(")
@@ -129,7 +129,7 @@ def infos ():
     answer1 = int(input("="))
     if answer1 == total : 
         score = score +1
-        print("Correct!")
+        print("Correct!:)")
     else: 
         print("Incorrect :(")
 

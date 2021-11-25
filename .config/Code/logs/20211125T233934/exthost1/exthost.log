@@ -1,0 +1,53 @@
+[2021-11-25 23:39:41.604] [exthost] [info] Extension host with pid 4829 started
+[2021-11-25 23:39:41.605] [exthost] [info] Skipping acquiring lock for /home/salazarylizanicole/.config/Code/User/workspaceStorage/9209b009f7edf43c824ebce1aa67e5ba.
+[2021-11-25 23:39:42.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-25 23:39:42.139] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-25 23:39:42.770] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-25 23:39:43.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-25 23:39:43.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-25 23:39:45.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-25 23:39:46.304] [exthost] [info] Eager extensions activated
+[2021-11-25 23:39:46.638] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-25 23:39:46.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-25 23:39:46.884] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-25 23:39:47.366] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-25 23:39:53.932] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-25 23:39:53.933] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:114800
+	at async m.provideDocumentHighlights (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:171454)
+[2021-11-25 23:39:53.934] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-25 23:39:53.934] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-25 23:39:53.934] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-25 23:39:53.935] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:118727
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+	at async A.provideCodeActions (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172824)
+[2021-11-25 23:39:53.937] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-25 23:39:53.938] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170516)
+[2021-11-25 23:43:16.324] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-25 23:43:16.324] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170516)
+[2021-11-25 23:43:16.327] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-25 23:43:16.327] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/salazarylizanicole/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170516)
+[2021-11-25 23:43:46.100] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-25 23:43:47.263] [exthost] [info] Extension host with pid 4829 exiting with code 0

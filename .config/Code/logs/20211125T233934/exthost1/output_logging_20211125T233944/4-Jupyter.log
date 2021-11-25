@@ -1,0 +1,24 @@
+Info 2021-11-25 23:39:45: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-11-25 23:39:45: ZMQ install verified.
+Info 2021-11-25 23:39:47: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 2021-11-25 23:39:48: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-11-25 23:39:48: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-11-25 23:39:48: Process Execution: > /usr/bin/python3 -c "import jupyter"
+> /usr/bin/python3 -c "import jupyter"
+Info 2021-11-25 23:39:48: Process Execution: > /usr/bin/python3 -c "import jupyter"
+> /usr/bin/python3 -c "import jupyter"
+Info 2021-11-25 23:39:48: Process Execution: > /usr/bin/python3 -c "import notebook"
+> /usr/bin/python3 -c "import notebook"
+Info 2021-11-25 23:39:48: Process Execution: > /usr/bin/python3 -c "import notebook"
+> /usr/bin/python3 -c "import notebook"
+Info 2021-11-25 23:43:46: Shutting down notebooks for 04416c8a-7fef-4868-8a16-0a4170ec87ae
+Info 2021-11-25 23:43:46: Disposing HostJupyterExecution ba74173f-a27e-44b7-a41c-519508cf158d
+Info 2021-11-25 23:43:46: Disposing super HostJupyterExecution ba74173f-a27e-44b7-a41c-519508cf158d
+Info 2021-11-25 23:43:46: Disposing HostJupyterExecution ba74173f-a27e-44b7-a41c-519508cf158d
+Info 2021-11-25 23:43:46: Finished disposing HostJupyterExecution  ba74173f-a27e-44b7-a41c-519508cf158d
+Info 2021-11-25 23:43:46: Cleaning up server cache ba74173f-a27e-44b7-a41c-519508cf158d
+Info 2021-11-25 23:43:46: Finished disposing HostJupyterExecution  ba74173f-a27e-44b7-a41c-519508cf158d
