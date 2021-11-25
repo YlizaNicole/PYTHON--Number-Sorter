@@ -4,3 +4,6 @@ sudo apt install python3 python3-pip build-essential libssl-dev libffi-dev pytho
 /usr/bin/python3 /home/salazarylizanicole/assignmentnumber6/first.py
 /usr/bin/python3 /home/salazarylizanicole/assignmentnumber6/second.py
 /usr/bin/python3 "/home/salazarylizanicole/assignmentnumber6/second .py"
+git add .
+git commit -m "trying tp decide if i hav too much commits already"
+git push origin master
