@@ -12,7 +12,7 @@ def intro ():
     if quest == "yes": 
         print ("Let's play!")
     else:
-        print ("that's okay, no pressure! i'll give the first number and there's no time limit!")
+        print ("that's okay, no pressure")
     print ("please insert the value below")
 
 intro()
